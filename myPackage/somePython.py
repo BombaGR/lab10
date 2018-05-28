@@ -4,7 +4,7 @@ import os
 recipies_path = 'porady'
 
 
-def recipies_load_from_file():
+def recipies_load():
     if os.path.exists(recipies_path):
         with open(recipies_path, 'r') as file:
             recipies = json.load(file)
