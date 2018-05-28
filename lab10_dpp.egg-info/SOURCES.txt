@@ -1,0 +1,8 @@
+setup.py
+lab10_dpp.egg-info/PKG-INFO
+lab10_dpp.egg-info/SOURCES.txt
+lab10_dpp.egg-info/dependency_links.txt
+lab10_dpp.egg-info/requires.txt
+lab10_dpp.egg-info/top_level.txt
+myPackage/__init__.py
+myPackage/somePython.py
